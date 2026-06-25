@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+.idea/
+.vscode/
+
+app/static/qr_codes/*.png
+!app/static/qr_codes/.gitkeep
