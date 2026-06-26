@@ -193,7 +193,18 @@ Interactive Swagger documentation is available at:
 ```
 http://127.0.0.1:8000/docs
 ```
+## 📬 Postman Collection
 
+The exported Postman collection is available in the `postman/` folder.
+
+Import it into Postman to test all API endpoints including:
+
+- User Registration
+- User Login
+- Create Short URL
+- Redirect URL
+- Analytics
+- Health Check
 ---
 
 ## ✨ Future Improvements
